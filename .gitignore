@@ -1,0 +1,6 @@
+mavlink/
+*.asv
+*.csv
+!Flight_Log_Sortie*.csv
+
+*.DS_Store
